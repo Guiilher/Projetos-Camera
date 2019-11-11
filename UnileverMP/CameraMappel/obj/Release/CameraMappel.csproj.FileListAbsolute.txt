@@ -1,0 +1,28 @@
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\bin\Release\CameraMappel01.exe.config
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\bin\Release\CameraMappel01.exe
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\bin\Release\CameraMappel01.pdb
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Release\CameraMappel.Form1.resources
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Release\CameraMappel01.Properties.Resources.resources
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Release\CameraMappel.csproj.GenerateResource.cache
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Release\CameraMappel.csproj.CoreCompileInputs.cache
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Release\CameraMappel01.exe
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Release\CameraMappel01.pdb
+C:\Users\Engenharia\Documents\Visual Studio 2015\Projects\CameraMappel\CameraMappel\bin\Release\CameraMappel01.exe.config
+C:\Users\Engenharia\Documents\Visual Studio 2015\Projects\CameraMappel\CameraMappel\obj\Release\CameraMappel01.exe
+C:\Users\Engenharia\Documents\Visual Studio 2015\Projects\CameraMappel\CameraMappel\obj\Release\CameraMappel01.pdb
+C:\Users\Engenharia\Documents\Visual Studio 2015\Projects\CameraMappel\CameraMappel\bin\Release\CameraMappel01.exe
+C:\Users\Engenharia\Documents\Visual Studio 2015\Projects\CameraMappel\CameraMappel\bin\Release\CameraMappel01.pdb
+C:\Users\Engenharia\Documents\Visual Studio 2015\Projects\CameraMappel\CameraMappel\obj\Release\CameraMappel.CameraMappel.resources
+C:\Users\Engenharia\Documents\Visual Studio 2015\Projects\CameraMappel\CameraMappel\obj\Release\CameraMappel01.Properties.Resources.resources
+C:\Users\Engenharia\Documents\Visual Studio 2015\Projects\CameraMappel\CameraMappel\obj\Release\CameraMappel.csproj.GenerateResource.Cache
+C:\Users\Engenharia\Documents\Visual Studio 2015\Projects\CameraMappel\CameraMappel\obj\Release\CameraMappel.csprojResolveAssemblyReference.cache
+C:\Users\proje\Documents\CameraMappel\CameraMappel\bin\Release\CameraMappel01.exe.config
+C:\Users\proje\Documents\CameraMappel\CameraMappel\bin\Release\CameraMappel01.exe
+C:\Users\proje\Documents\CameraMappel\CameraMappel\bin\Release\CameraMappel01.pdb
+C:\Users\proje\Documents\CameraMappel\CameraMappel\obj\Release\CameraMappel.csprojResolveAssemblyReference.cache
+C:\Users\proje\Documents\CameraMappel\CameraMappel\obj\Release\CameraMappel.CameraMappel.resources
+C:\Users\proje\Documents\CameraMappel\CameraMappel\obj\Release\CameraMappel01.Properties.Resources.resources
+C:\Users\proje\Documents\CameraMappel\CameraMappel\obj\Release\CameraMappel.csproj.GenerateResource.cache
+C:\Users\proje\Documents\CameraMappel\CameraMappel\obj\Release\CameraMappel.csproj.CoreCompileInputs.cache
+C:\Users\proje\Documents\CameraMappel\CameraMappel\obj\Release\CameraMappel01.exe
+C:\Users\proje\Documents\CameraMappel\CameraMappel\obj\Release\CameraMappel01.pdb

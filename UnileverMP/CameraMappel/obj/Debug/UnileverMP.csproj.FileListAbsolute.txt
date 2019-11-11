@@ -1,0 +1,32 @@
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\bin\Debug\UnileverMP.exe.config
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\bin\Debug\UnileverMP.exe
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\bin\Debug\UnileverMP.pdb
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\obj\Debug\UnileverMP.csprojResolveAssemblyReference.cache
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\obj\Debug\UnileverMP.Properties.Resources.resources
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\obj\Debug\UnileverMP.csproj.GenerateResource.Cache
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\obj\Debug\UnileverMP.exe
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\obj\Debug\UnileverMP.pdb
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\obj\Debug\UnilevarMP.Form1.resources
+C:\Users\3binfo\Downloads\UnileverMP\CameraMappel\bin\Debug\UnileverMP.exe.config
+C:\Users\3binfo\Downloads\UnileverMP\CameraMappel\bin\Debug\UnileverMP.exe
+C:\Users\3binfo\Downloads\UnileverMP\CameraMappel\bin\Debug\UnileverMP.pdb
+C:\Users\3binfo\Downloads\UnileverMP\CameraMappel\obj\Debug\UnileverMP.csprojAssemblyReference.cache
+C:\Users\3binfo\Downloads\UnileverMP\CameraMappel\obj\Debug\UnilevarMP.Form1.resources
+C:\Users\3binfo\Downloads\UnileverMP\CameraMappel\obj\Debug\UnileverMP.Properties.Resources.resources
+C:\Users\3binfo\Downloads\UnileverMP\CameraMappel\obj\Debug\UnileverMP.csproj.GenerateResource.cache
+C:\Users\3binfo\Downloads\UnileverMP\CameraMappel\obj\Debug\UnileverMP.csproj.CoreCompileInputs.cache
+C:\Users\3binfo\Downloads\UnileverMP\CameraMappel\obj\Debug\UnileverMP.exe
+C:\Users\3binfo\Downloads\UnileverMP\CameraMappel\obj\Debug\UnileverMP.pdb
+C:\Users\André Luís\Downloads\UnileverMP\CameraMappel\bin\Debug\UnileverMP.exe.config
+C:\Users\André Luís\Downloads\UnileverMP\CameraMappel\obj\Debug\UnileverMP.exe
+C:\Users\André Luís\Downloads\UnileverMP\CameraMappel\obj\Debug\UnileverMP.pdb
+C:\Users\André Luís\Downloads\UnileverMP\CameraMappel\bin\Debug\UnileverMP.exe
+C:\Users\André Luís\Downloads\UnileverMP\CameraMappel\bin\Debug\UnileverMP.pdb
+C:\Users\André Luís\Downloads\UnileverMP\CameraMappel\obj\Debug\UnileverMP.csprojResolveAssemblyReference.cache
+C:\Users\André Luís\Downloads\UnileverMP\CameraMappel\obj\Debug\UnilevarMP.Form1.resources
+C:\Users\André Luís\Downloads\UnileverMP\CameraMappel\obj\Debug\UnileverMP.Properties.Resources.resources
+C:\Users\André Luís\Downloads\UnileverMP\CameraMappel\obj\Debug\UnileverMP.csproj.GenerateResource.Cache
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\bin\Debug\FtdAdapter.dll
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\bin\Debug\log4net.dll
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\bin\Debug\Modbus.dll
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\bin\Debug\Unme.Common.dll

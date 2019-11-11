@@ -1,0 +1,10 @@
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Debug\CameraMappel.Form1.resources
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Debug\CameraUnilever.csproj.GenerateResource.cache
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Debug\CameraUnilever.csproj.CoreCompileInputs.cache
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Debug\CameraUnilever.csprojResolveAssemblyReference.cache
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Debug\CameraMappel.Properties.Resources.resources
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\bin\Debug\CameraMappel.exe.config
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\bin\Debug\CameraMappel.exe
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\bin\Debug\CameraMappel.pdb
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Debug\CameraMappel.exe
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Debug\CameraMappel.pdb

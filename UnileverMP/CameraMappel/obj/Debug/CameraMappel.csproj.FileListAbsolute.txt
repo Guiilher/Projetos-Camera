@@ -1,0 +1,46 @@
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\bin\Debug\CameraMappel01.exe.config
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\bin\Debug\CameraMappel01.exe
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\bin\Debug\CameraMappel01.pdb
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Debug\CameraMappel.Form1.resources
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Debug\CameraMappel01.Properties.Resources.resources
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Debug\CameraMappel.csproj.GenerateResource.cache
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Debug\CameraMappel.csproj.CoreCompileInputs.cache
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Debug\CameraMappel01.exe
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Debug\CameraMappel01.pdb
+C:\Users\proje\Documents\Visual Studio 2017\Projects\CameraMappel\CameraMappel\obj\Debug\CameraMappel.csprojResolveAssemblyReference.cache
+C:\Users\Engenharia\Documents\Visual Studio 2015\Projects\CameraMappel\CameraMappel\bin\Debug\CameraMappel01.exe.config
+C:\Users\Engenharia\Documents\Visual Studio 2015\Projects\CameraMappel\CameraMappel\obj\Debug\CameraMappel01.exe
+C:\Users\Engenharia\Documents\Visual Studio 2015\Projects\CameraMappel\CameraMappel\obj\Debug\CameraMappel01.pdb
+C:\Users\Engenharia\Documents\Visual Studio 2015\Projects\CameraMappel\CameraMappel\bin\Debug\CameraMappel01.exe
+C:\Users\Engenharia\Documents\Visual Studio 2015\Projects\CameraMappel\CameraMappel\bin\Debug\CameraMappel01.pdb
+C:\Users\Engenharia\Documents\Visual Studio 2015\Projects\CameraMappel\CameraMappel\obj\Debug\CameraMappel.csprojResolveAssemblyReference.cache
+C:\Users\Engenharia\Documents\Visual Studio 2015\Projects\CameraMappel\CameraMappel\obj\Debug\CameraMappel.CameraMappel.resources
+C:\Users\Engenharia\Documents\Visual Studio 2015\Projects\CameraMappel\CameraMappel\obj\Debug\CameraMappel01.Properties.Resources.resources
+C:\Users\Engenharia\Documents\Visual Studio 2015\Projects\CameraMappel\CameraMappel\obj\Debug\CameraMappel.csproj.GenerateResource.Cache
+C:\Users\proje\Documents\CameraMappel\CameraMappel\bin\Debug\CameraMappel01.exe.config
+C:\Users\proje\Documents\CameraMappel\CameraMappel\bin\Debug\CameraMappel01.exe
+C:\Users\proje\Documents\CameraMappel\CameraMappel\bin\Debug\CameraMappel01.pdb
+C:\Users\proje\Documents\CameraMappel\CameraMappel\obj\Debug\CameraMappel.csprojResolveAssemblyReference.cache
+C:\Users\proje\Documents\CameraMappel\CameraMappel\obj\Debug\CameraMappel.CameraMappel.resources
+C:\Users\proje\Documents\CameraMappel\CameraMappel\obj\Debug\CameraMappel01.Properties.Resources.resources
+C:\Users\proje\Documents\CameraMappel\CameraMappel\obj\Debug\CameraMappel.csproj.GenerateResource.cache
+C:\Users\proje\Documents\CameraMappel\CameraMappel\obj\Debug\CameraMappel.csproj.CoreCompileInputs.cache
+C:\Users\proje\Documents\CameraMappel\CameraMappel\obj\Debug\CameraMappel01.exe
+C:\Users\proje\Documents\CameraMappel\CameraMappel\obj\Debug\CameraMappel01.pdb
+C:\Users\André Luís\Documents\trabalho camera\CameraMappel-20180806T105445Z-001\CameraMappel\CameraMappel\bin\Debug\CameraMappel01.exe.config
+C:\Users\André Luís\Documents\trabalho camera\CameraMappel-20180806T105445Z-001\CameraMappel\CameraMappel\obj\Debug\CameraMappel01.exe
+C:\Users\André Luís\Documents\trabalho camera\CameraMappel-20180806T105445Z-001\CameraMappel\CameraMappel\obj\Debug\CameraMappel01.pdb
+C:\Users\André Luís\Documents\trabalho camera\CameraMappel-20180806T105445Z-001\CameraMappel\CameraMappel\bin\Debug\CameraMappel01.exe
+C:\Users\André Luís\Documents\trabalho camera\CameraMappel-20180806T105445Z-001\CameraMappel\CameraMappel\bin\Debug\CameraMappel01.pdb
+C:\Users\André Luís\Documents\trabalho camera\CameraMappel-20180806T105445Z-001\CameraMappel\CameraMappel\obj\Debug\CameraMappel.csprojResolveAssemblyReference.cache
+C:\Users\André Luís\Documents\trabalho camera\CameraMappel-20180806T105445Z-001\CameraMappel\CameraMappel\obj\Debug\CameraMappel.CameraMappel.resources
+C:\Users\André Luís\Documents\trabalho camera\CameraMappel-20180806T105445Z-001\CameraMappel\CameraMappel\obj\Debug\CameraMappel01.Properties.Resources.resources
+C:\Users\André Luís\Documents\trabalho camera\CameraMappel-20180806T105445Z-001\CameraMappel\CameraMappel\obj\Debug\CameraMappel.csproj.GenerateResource.Cache
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\bin\Debug\CameraMappel01.exe.config
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\obj\Debug\CameraMappel01.exe
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\obj\Debug\CameraMappel01.pdb
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\bin\Debug\CameraMappel01.exe
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\bin\Debug\CameraMappel01.pdb
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\obj\Debug\CameraMappel.CameraMappel.resources
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\obj\Debug\CameraMappel01.Properties.Resources.resources
+C:\Users\André Luís\Documents\Visual Studio 2015\Projects\UnileverMP\CameraMappel\obj\Debug\CameraMappel.csproj.GenerateResource.Cache
